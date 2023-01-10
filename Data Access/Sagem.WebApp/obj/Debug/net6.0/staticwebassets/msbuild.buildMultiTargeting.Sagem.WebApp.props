@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sagem.WebApp.props" />
+</Project>

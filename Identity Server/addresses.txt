@@ -1,0 +1,6 @@
+API:
+https 5445;http 5002
+
+IDENTITY SERVER:
+https 5443;http 5000
+

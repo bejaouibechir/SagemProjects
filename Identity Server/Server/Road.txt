@@ -1,0 +1,50 @@
+﻿Executer ces commandes pour générer les tables utilisées par identity server
+//Pour générer le model de données
+Add-Migration InitialMigration                                                                                                                                                                                                                                                                                        
+Update-Database                                                                                                                                                                                                                                                                                                    
+
+//Pour générer le model de Identity Server
+Add-Migration InitialIdentityServerMigration -c PersistedGrantDbContext...                                                                                                                                                                                                                                                
+Add-Migration InitialIdentityServerMigration -c ConfigurationDbContext...                                                                                        
+                                                                                                                                                          
+Update-Database -Context PersistedGrantDbContext...                                                                                                                                                                                                                                                                       
+Update-Database -Context ConfigurationDbContext..
+
+//Juste après l'ajout de ce qui est ajouté en etape 2 voir le fichier program.cs il faut enchainer avec cette commande
+
+Add-Migration InitialAspNetIdentityMigration -Context AspNetIdentityDbContext
+
+Pour créer des données de test sur le serveur
+https://github.com/IdentityServer/IdentityServer4/blob/main/src/EntityFramework/migrations/SqlServer/SeedData.cs
+
+Ajouter la classe Config.cs
+
+Ajouter la classe SeedData.cs
+
+//Juste après passer à l'étape 3 où SeedData doit ête appelée
+
+Appeler le serveur
+dotnet run Server/bin/Debug/net6.0/Server.exe /seed 
+puis lancer cette addresse pour vérifier les données de connexion 
+https://localhost:5443/.well-known/openid-configuration
+
+Vérfier également la base de données la table dbo.Clients, il faut remarquer l'ajout du premier client
+Vérfier également dbo.ClientScopes
+Vérfier également dbo.AspNetUsers (l'utilisateur)
+
+Installer le Quick Start Identity Server pour gérer graphiquement le API
+https://github.com/IdentityServer/IdentityServer4.Quickstart.UI
+Copier les dossiers 
+Quickstart
+Views
+wwwroot dans la racine du serveur Server
+
+Integration:
+
+Sous QuickStart\Account\AccountController
+
+
+
+
+
+

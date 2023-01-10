@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hoe//YO3s6TPYlvoK+iwE/5999gNJVf0D+WNjITlkj9TcFJOUZXwpOgMMrhyb9bQBMLkskr5Q3hzIy+JKo+yWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sagem\\SagemSolution\\WebAppMiddleWare\\WebAppMiddleWare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bechir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\bechir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\bechir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\bechir\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

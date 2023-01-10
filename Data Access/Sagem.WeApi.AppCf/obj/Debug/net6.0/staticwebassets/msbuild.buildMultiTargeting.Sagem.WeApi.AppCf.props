@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sagem.WeApi.AppCf.props" />
+</Project>

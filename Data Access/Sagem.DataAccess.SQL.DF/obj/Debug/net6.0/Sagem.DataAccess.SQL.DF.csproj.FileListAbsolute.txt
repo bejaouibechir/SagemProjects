@@ -1,0 +1,14 @@
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\bin\Debug\net6.0\Sagem.DataAccess.SQL.DF.deps.json
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\bin\Debug\net6.0\Sagem.DataAccess.SQL.DF.runtimeconfig.json
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\bin\Debug\net6.0\Sagem.DataAccess.SQL.DF.dll
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\bin\Debug\net6.0\Sagem.DataAccess.SQL.DF.pdb
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.csproj.AssemblyReference.cache
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.AssemblyInfoInputs.cache
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.AssemblyInfo.cs
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.csproj.CoreCompileInputs.cache
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.dll
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\refint\Sagem.DataAccess.SQL.DF.dll
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.pdb
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\Sagem.DataAccess.SQL.DF.genruntimeconfig.cache
+D:\Sagem\SagemSolution\Sagem.DataAccess.SQL.DF\obj\Debug\net6.0\ref\Sagem.DataAccess.SQL.DF.dll
